@@ -1,0 +1,1 @@
+O conteúdo dessa pasta, mostra pequenos códgos na linguagem python, da lista 1 do beecrowd, desenvolvidos por mim com os ensinamentos do professor João Paulo do Centro Univercitário de Lavras, "Unilavras".
